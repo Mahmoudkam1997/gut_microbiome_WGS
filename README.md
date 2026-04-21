@@ -1,2 +1,2 @@
-# gut_microbiome_WGS
+# gut_metagenome_WGS
 Cancer_diagnosis
